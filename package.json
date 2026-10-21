@@ -1,0 +1,13 @@
+{
+  "name": "emo-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EMO: tokens that change shape. Static site, output in dist/.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "gates": "node scripts/gates.mjs",
+    "assets": "python -I tools/prepare-assets.py"
+  }
+}

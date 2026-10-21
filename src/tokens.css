@@ -1,0 +1,13 @@
+/* PALETTE PROVENANCE: k-means (k=9, seed 7) over opaque pixels of brand/LOGO EMO PNG...png (RGBA, colourtype 6),
+   each centroid snapped to the nearest real pixel; x,y are source pixel coordinates. The ninth cluster
+   (antialias blend, share < 1%) was discarded. No other colour literal exists in the project. */
+:root {
+  --navy: #062157; /* px(984,459) share 35.2% */
+  --sun-light: #fddf53; /* px(851,536) share 14.6% */
+  --sun: #fdcb24; /* px(1108,814) share 14.0% */
+  --azure: #2086e5; /* px(1186,760) share 13.7% */
+  --sun-deep: #f3b918; /* px(1199,563) share 7.6% */
+  --sky: #54b0f9; /* px(1222,715) share 7.6% */
+  --white: #fefdfc; /* px(1000,837) share 4.8% */
+  --cobalt: #1162c0; /* px(1329,1137) share 2.1% */
+}

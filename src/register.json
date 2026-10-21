@@ -1,0 +1,20 @@
+{
+  "records": [
+    { "id": "chain", "label": "Chain", "state": "stated", "value": "Solana", "rpc": "https://solana-rpc.publicnode.com", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "ca", "label": "Contract", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "x", "label": "X", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "github", "label": "GitHub", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "launch", "label": "Launch", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "buy", "label": "Buy", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "market", "label": "Market", "state": "stated", "urls": { "boosts": "https://api.dexscreener.com/token-boosts/top/v1", "pairs": "https://api.dexscreener.com/tokens/v1/solana/" }, "source": "market-source register", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "form2", "label": "Form II threshold", "state": "stated", "value": "$10K", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "final", "label": "Final form threshold", "state": "stated", "value": "$30K", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "lock", "label": "Lock length", "state": "stated", "value": "30 days", "display": "thirty days", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "feeshare", "label": "Fee share", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "bondbuy", "label": "Bond purchase", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "stat-launched", "label": "Launched", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "stat-form2", "label": "Past stage two", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "stat-final", "label": "At peak stage", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" },
+    { "id": "stat-cap", "label": "Combined cap", "state": "absent", "source": "client statement", "scope": "batch-level", "checked": "2026-10-21" }
+  ]
+}
